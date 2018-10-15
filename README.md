@@ -26,7 +26,7 @@ In `standalone.xml` (server/profile/subsystem[@xmlns="urn:jboss:domain:keycloak-
 
 In Admin Console: realm settings → Themes → Login Theme = glutt
 
-# Test
+## Test
 
 Try appending "glutt" parameter either to client URL or to Keycloak auth URL. For example:
 
