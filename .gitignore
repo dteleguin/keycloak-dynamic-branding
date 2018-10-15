@@ -1,0 +1,24 @@
+# Intellij
+###################
+.idea
+*.iml
+
+# Eclipse #
+###########
+.project
+.settings
+.classpath
+bin/
+.factorypath
+
+
+# NetBeans #
+############
+nbactions.xml
+nb-configuration.xml
+catalog.xml
+nbproject
+
+# Maven #
+#########
+target

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-deployment-structure>
+    <deployment>
+        <module-alias name="deployment.pro.acutus.keycloak.freemarkerplus"/>
+        <dependencies>
+            <module name="javax.ws.rs.api"/>
+            <module name="org.keycloak.keycloak-server-spi"/>
+            <module name="org.keycloak.keycloak-server-spi-private"/>
+            <module name="org.keycloak.keycloak-services"/>
+        </dependencies>
+    </deployment>
+</jboss-deployment-structure>

@@ -1,0 +1,1 @@
+# keycloak-dynamic-branding

@@ -1,0 +1,8 @@
+{
+    "themes": [
+        {
+            "name" : "glutt",
+            "types": [ "login" ]
+        }
+    ]
+}
